@@ -2,7 +2,7 @@
     <img src="https://capsule-render.vercel.app/api?type=soft&color=auto&height=180&text=San's%20Github&animation=fadeIn&fontColor=000000&fontSize=70" />
     </div>
     <div style="text-align: left;"> 
-    <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;">  </h2>  
+    <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> 안녕하세요 송산입니다. </h2>  
     <div style="font-weight: 700; font-size: 15px; text-align: left; color: #282d33;"> <li> 한동대학교 20학번 컴퓨터공학심화</li><li> IoT 기반의 로스터기 제어 프로그램 개발, 100대+ 제품 판매</li><li> 투자정보집합소 플랫폼 운영 </div> 
     </div>
     <div style="text-align: left;">
@@ -27,7 +27,11 @@
     <div style="text-align: left;">  </div> 
     </div>
     <div style="text-align: left;"> 
-    <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> 🏅 Stats </h2> <div style="text-align: left;">  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=saniolsida&layout=compact&bg_color=180,000000,&title_color=000000&text_color=000000"
+    <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> 🏅 Stats </h2> 
+        <li> - 캡스톤디자인2 최우수상</li>
+        <li> - 캡스톤디자인2 인기상</li>
+        <li> - 캡스톤디자인1 인기상</li>
+        <div style="text-align: left;">  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=saniolsida&layout=compact&bg_color=180,000000,&title_color=000000&text_color=000000"
            /> </div> 
     </div>
     
