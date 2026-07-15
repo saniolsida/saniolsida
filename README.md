@@ -31,7 +31,5 @@
         <li> - 캡스톤디자인2 최우수상</li>
         <li> - 캡스톤디자인2 인기상</li>
         <li> - 캡스톤디자인1 인기상</li>
-        <div style="text-align: left;">  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=saniolsida&layout=compact&bg_color=180,000000,&title_color=000000&text_color=000000"
-           /> </div> 
     </div>
     
