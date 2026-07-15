@@ -6,7 +6,8 @@
     <div style="font-weight: 700; font-size: 15px; text-align: left; color: #282d33;"> <li> 한동대학교 20학번 컴퓨터공학심화</li>
         <li> IoT 기반의 로스터기 제어 프로그램 개발, 100대+ 제품 판매</li>
         <li> 투자정보집합소 플랫폼 운영  </li>
-        <li> 태양광 기반의 모바일 블록체인 개발 </div> 
+        <li> 태양광 기반의 모바일 블록체인 개발</li>
+    <li> K-뉴딜 설비 고장을 예측하는 AI 데이터 분석 교육 수강중 </li></div> 
     </div>
     <div style="text-align: left;">
     <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> 🛠️ Tech Stacks </h2> <br> 
