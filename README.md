@@ -1,13 +1,19 @@
 <div align= "center">
     <img src="https://capsule-render.vercel.app/api?type=soft&color=auto&height=180&text=San's%20Github&animation=fadeIn&fontColor=000000&fontSize=70" />
     </div>
-    <div style="text-align: left;"> 
-    <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> 안녕하세요 송산입니다. </h2>  
-    <div style="font-weight: 700; font-size: 15px; text-align: left; color: #282d33;"> <li> 한동대학교 20학번 컴퓨터공학심화</li>
-        <li> IoT 기반의 로스터기 제어 프로그램 개발, 100대+ 제품 판매</li>
-        <li> 투자정보집합소 플랫폼 운영  </li>
-        <li> 태양광 기반의 모바일 블록체인 개발</li>
-    </div> 
+    
+<div style="text-align: left;">
+  <h2>👋 안녕하세요, 송산입니다.</h2>
+  <ul>
+    <li>🎓 한동대학교 20학번 컴퓨터공학심화</li>
+    <li>🏢 한동대학교 AI혁신지원실 | AI 가속기 인프라 운영</li>
+    <li>🖥️ NVIDIA DGX B200 / RTX PRO 6000 GPU 인프라 운영</li>
+    <li>⚙️ Kubernetes 기반 GPU 자원 및 Workspace 관리</li>
+    <li>🔧 GPU 서버 · 스토리지 · 네트워크 운영 및 장애 대응</li>
+    <li>☕ IoT 기반 로스터기 제어 SW 개발 및 상용화 (100대 이상 판매)</li>
+  </ul>
+</div>
+ 
     </div>
     <div style="text-align: left;">
     <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> 🛠️ Tech Stacks </h2> <br> 
